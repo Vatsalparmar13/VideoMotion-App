@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.VideoMotion" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+
+    <style name="systemBack">
+        <item name="android:background">@color/black</item>
+    </style>
+    <style name="backgroundSplash"><item name="android:background">@color/lightBlue</item></style>
+    <style name="imageBack"><item name="android:tint">@color/white</item></style>
+    <style name="backgrounditem"><item name="android:background">@color/lightBlue</item></style>
+    <style name="textColorFolder"><item name="android:textColor">@color/white</item></style>
+    <style name="textHintColor"><item name="android:textColor">#C8C4C4</item></style>
+</resources>

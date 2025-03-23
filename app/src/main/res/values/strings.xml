@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VideoMotion</string>
+    <string name="audio_sub">Audio Track</string>
+    <string name="rotate">Rotate</string>
+</resources>
