@@ -1,6 +1,6 @@
 # VideoMotion App
 
-![VideoMotion Banner](screenshots/banner.png)
+![VideoMotion Banner](https://github.com/Vatsalparmar13/VideoMotion-App/blob/master/app/src/main/res/drawable/banner.jpg)
 
 ## Overview
 VideoMotion is an Android application that allows users to browse and play videos from their device storage. Users can navigate through video folders, select videos, and utilize various playback controls such as forward, rewind, pause, audio track selection, and screen rotation.
