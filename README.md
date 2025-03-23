@@ -49,7 +49,7 @@ VideoMotion is an Android application that allows users to browse and play video
 | ![Folder View](https://github.com/Vatsalparmar13/VideoMotion-App/blob/master/app/src/main/res/drawable/folder_screen.jpg) | ![Video List View](https://github.com/Vatsalparmar13/VideoMotion-App/blob/master/app/src/main/res/drawable/video_list_screen.jpg) | ![Video Playback](https://github.com/Vatsalparmar13/VideoMotion-App/blob/master/app/src/main/res/drawable/videoplay_screen.jpg) |
 
 ## Future Enhancements
-- 📱 **Gesture Controls:** Swipe to seek videos.
+
 - ⏩ **Playback Speed Control:** Adjust playback speed (0.5x, 1.0x, 1.5x, 2.0x).
 - 🔤 **Subtitle Support:** Load subtitles for videos.
 
@@ -57,6 +57,10 @@ VideoMotion is an Android application that allows users to browse and play video
 ## Contributors
 - [Vatsal Parmar](https://github.com/Vatsalparmar13)
 
-## License
-📜 This project is licensed under the **MIT License**.
+## 📩 Contact
+
+For any queries, reach out to:
+
+- **✉️ Email :** [vatsalparmar1345@gmail.com](mailto:vatsalparmar1345@gmail.com)
+- **💻 GitHub :** [Vatsal Parmar](https://github.com/Vatsalparmar13)
 
